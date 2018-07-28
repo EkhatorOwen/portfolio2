@@ -1,0 +1,41 @@
+.box.style1.right .image {
+  position: initial;
+  width: auto;
+}
+
+.box.style1{
+  padding: 0;
+}
+
+.box.style1 .image img{
+  position: initial;
+  height: auto;
+  max-width: 100%;
+}
+
+.box.style1.right .inner{
+  margin: 0 5px;
+  padding: 20px;
+  text-align: center;
+
+}
+
+.image.fit.skill {
+  background: white;
+  width: 90%;
+  margin: 0 5% 4px;
+  display: block;
+  text-align: center;
+
+}
+
+.image.fit.skill img{
+    max-width: 105px;
+    display: block;
+    margin: 0 auto;
+}
+
+.fab, .fas {
+  font-size: 100px;
+  color: #754abd;
+}
